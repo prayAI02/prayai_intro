@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Jimin Yun!
 
-<!--
-**prayAI02/prayAi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Suny Stonybrook.  
+I graduated from Fukuoka International School (Japan) with an IB Diploma.
 
-Here are some ideas to get you started:
+I’ve studied basic programming in **C**, **Java**, and **Python**. 
+I’m currently learning frontend.  
+I’m interested in understanding how IT can be applied in everyday life and business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills
+- **Languages:** C, Java, Python  
+- **Currently Learning:** HTML, CSS, JavaScript  
+- **Tools:** Git, VS Code
+
+### 🌱 Goals
+- Build simple web projects to improve coding skills  
+- Learn the fundamentals of software development
+
+📫 **Contact**
+- Email: jimin.yun2002@gmail.com
+- GitHub: [github.com/prayAi02](https://github.com/prayAi02)
